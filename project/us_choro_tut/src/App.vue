@@ -4,11 +4,16 @@
       <l-tile-layer :url="url" :attribution="attribution"></l-tile-layer>
       <l-choropleth-layer :data="pyDepartmentsData" titleKey="Postal_Code" idKey="Geographic_Area" :value="value" geojsonIdKey="name" :geojson="usGeojson" :colorScale="colorScale">
         <template slot-scope="props">
-          <l-info-control :item="props.currentItem" :unit="props.unit" title="State" placeholder="Hover over a state"/>
+          <div class="info-control-wrapper">
+            <l-info-control :item="props.currentItem" :unit="props.unit" title="State" placeholder="Hover over a state"/>
+          </div>
           <l-reference-chart title="US State Populations" :colorScale="colorScale" :min="props.min" :max="props.max" position="topright"/>
         </template>
       </l-choropleth-layer>
     </l-map>
+    <v-container>
+      High risk
+    </v-container>
   </div>
 </template>
 
