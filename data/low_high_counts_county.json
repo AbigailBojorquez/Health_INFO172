@@ -1,8 +1,18 @@
 [
  {
-  "county":"Alameda",
-  "low_risk":13,
+  "county":"Ada",
+  "low_risk":3,
   "high_risk":1
+ },
+ {
+  "county":"Alachua",
+  "low_risk":3,
+  "high_risk":1
+ },
+ {
+  "county":"Alameda",
+  "low_risk":27,
+  "high_risk":2
  },
  {
   "county":"Albany",
@@ -11,52 +21,87 @@
  },
  {
   "county":"Alexandria",
-  "low_risk":4,
+  "low_risk":6,
   "high_risk":2
  },
  {
   "county":"Allegheny",
-  "low_risk":4,
+  "low_risk":7,
   "high_risk":3
  },
  {
   "county":"Anne Arundel",
-  "low_risk":1,
-  "high_risk":1
+  "low_risk":2,
+  "high_risk":2
  },
  {
   "county":"Arlington",
-  "low_risk":8,
+  "low_risk":13,
   "high_risk":1
  },
  {
   "county":"Baltimore",
-  "low_risk":10,
-  "high_risk":4
+  "low_risk":18,
+  "high_risk":8
+ },
+ {
+  "county":"Benton",
+  "low_risk":1,
+  "high_risk":1
  },
  {
   "county":"Bernalillo",
-  "low_risk":14,
-  "high_risk":2
+  "low_risk":20,
+  "high_risk":4
  },
  {
   "county":"Bexar",
-  "low_risk":19,
-  "high_risk":2
+  "low_risk":40,
+  "high_risk":3
+ },
+ {
+  "county":"Bibb",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Boulder",
+  "low_risk":4,
+  "high_risk":1
  },
  {
   "county":"Brazos",
-  "low_risk":2,
+  "low_risk":3,
   "high_risk":1
  },
  {
   "county":"Bronx",
-  "low_risk":16,
-  "high_risk":5
+  "low_risk":40,
+  "high_risk":6
+ },
+ {
+  "county":"Broome",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Broward",
+  "low_risk":7,
+  "high_risk":2
  },
  {
   "county":"Camden",
+  "low_risk":3,
+  "high_risk":1
+ },
+ {
+  "county":"Cameron",
   "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Charlottesville",
+  "low_risk":2,
   "high_risk":1
  },
  {
@@ -66,93 +111,148 @@
  },
  {
   "county":"Clark",
-  "low_risk":29,
-  "high_risk":5
+  "low_risk":77,
+  "high_risk":11
+ },
+ {
+  "county":"Clarke",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Clay",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Cleburne",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Cleveland",
+  "low_risk":8,
+  "high_risk":1
  },
  {
   "county":"Collin",
-  "low_risk":6,
+  "low_risk":9,
   "high_risk":2
  },
  {
   "county":"Cook",
-  "low_risk":77,
-  "high_risk":7
+  "low_risk":129,
+  "high_risk":12
+ },
+ {
+  "county":"Cuyahoga",
+  "low_risk":16,
+  "high_risk":2
  },
  {
   "county":"Dallas",
-  "low_risk":17,
-  "high_risk":4
+  "low_risk":55,
+  "high_risk":6
  },
  {
   "county":"Davidson",
-  "low_risk":10,
-  "high_risk":3
+  "low_risk":25,
+  "high_risk":6
  },
  {
   "county":"DeKalb",
-  "low_risk":5,
+  "low_risk":6,
   "high_risk":3
  },
  {
   "county":"Denver",
-  "low_risk":29,
-  "high_risk":4
+  "low_risk":47,
+  "high_risk":8
  },
  {
   "county":"District of Columbia",
-  "low_risk":22,
-  "high_risk":5
+  "low_risk":48,
+  "high_risk":7
  },
  {
   "county":"Douglas",
-  "low_risk":9,
-  "high_risk":2
+  "low_risk":27,
+  "high_risk":5
  },
  {
-  "county":"Durham",
-  "low_risk":11,
+  "county":"DuPage",
+  "low_risk":4,
+  "high_risk":3
+ },
+ {
+  "county":"Dubuque",
+  "low_risk":1,
   "high_risk":1
  },
  {
+  "county":"Durham",
+  "low_risk":13,
+  "high_risk":1
+ },
+ {
+  "county":"East Baton Rouge",
+  "low_risk":9,
+  "high_risk":3
+ },
+ {
   "county":"El Paso",
-  "low_risk":7,
-  "high_risk":2
+  "low_risk":12,
+  "high_risk":4
  },
  {
   "county":"Erie",
-  "low_risk":9,
+  "low_risk":18,
   "high_risk":2
  },
  {
   "county":"Escambia",
-  "low_risk":1,
+  "low_risk":2,
+  "high_risk":2
+ },
+ {
+  "county":"Essex",
+  "low_risk":4,
   "high_risk":2
  },
  {
   "county":"Fairfax",
-  "low_risk":1,
-  "high_risk":1
+  "low_risk":8,
+  "high_risk":6
  },
  {
   "county":"Fairfield",
-  "low_risk":2,
+  "low_risk":5,
+  "high_risk":1
+ },
+ {
+  "county":"Forsyth",
+  "low_risk":1,
   "high_risk":1
  },
  {
   "county":"Fort Bend",
-  "low_risk":1,
+  "low_risk":2,
   "high_risk":1
  },
  {
   "county":"Franklin",
-  "low_risk":63,
-  "high_risk":3
+  "low_risk":136,
+  "high_risk":5
+ },
+ {
+  "county":"Frio",
+  "low_risk":1,
+  "high_risk":1
  },
  {
   "county":"Fulton",
-  "low_risk":33,
-  "high_risk":8
+  "low_risk":62,
+  "high_risk":12
  },
  {
   "county":"Gregg",
@@ -161,23 +261,38 @@
  },
  {
   "county":"Guilford",
-  "low_risk":5,
-  "high_risk":1
+  "low_risk":7,
+  "high_risk":2
  },
  {
   "county":"Hamilton",
+  "low_risk":23,
+  "high_risk":3
+ },
+ {
+  "county":"Hampton",
   "low_risk":2,
   "high_risk":1
  },
  {
   "county":"Harris",
-  "low_risk":61,
-  "high_risk":8
+  "low_risk":101,
+  "high_risk":16
+ },
+ {
+  "county":"Hartford",
+  "low_risk":1,
+  "high_risk":1
  },
  {
   "county":"Hennepin",
-  "low_risk":16,
-  "high_risk":3
+  "low_risk":26,
+  "high_risk":4
+ },
+ {
+  "county":"Henry",
+  "low_risk":1,
+  "high_risk":1
  },
  {
   "county":"Hidalgo",
@@ -186,38 +301,43 @@
  },
  {
   "county":"Hillsborough",
-  "low_risk":13,
-  "high_risk":1
+  "low_risk":29,
+  "high_risk":2
  },
  {
   "county":"Houston",
-  "low_risk":1,
+  "low_risk":2,
   "high_risk":1
  },
  {
   "county":"Hudson",
-  "low_risk":5,
+  "low_risk":6,
+  "high_risk":2
+ },
+ {
+  "county":"Ingham",
+  "low_risk":4,
   "high_risk":1
  },
  {
   "county":"Iredell",
-  "low_risk":3,
+  "low_risk":4,
   "high_risk":1
  },
  {
   "county":"Jackson",
-  "low_risk":12,
-  "high_risk":1
+  "low_risk":19,
+  "high_risk":4
  },
  {
   "county":"Jefferson",
-  "low_risk":20,
-  "high_risk":5
+  "low_risk":33,
+  "high_risk":7
  },
  {
   "county":"Johnson",
-  "low_risk":5,
-  "high_risk":5
+  "low_risk":10,
+  "high_risk":11
  },
  {
   "county":"Johnston",
@@ -226,23 +346,28 @@
  },
  {
   "county":"Kent",
-  "low_risk":6,
+  "low_risk":9,
   "high_risk":1
  },
  {
   "county":"Kern",
-  "low_risk":3,
+  "low_risk":7,
   "high_risk":1
  },
  {
   "county":"King",
-  "low_risk":26,
-  "high_risk":3
+  "low_risk":54,
+  "high_risk":4
  },
  {
   "county":"Kings",
-  "low_risk":40,
-  "high_risk":4
+  "low_risk":85,
+  "high_risk":10
+ },
+ {
+  "county":"Knox",
+  "low_risk":2,
+  "high_risk":1
  },
  {
   "county":"Lafayette",
@@ -251,12 +376,12 @@
  },
  {
   "county":"Lancaster",
-  "low_risk":5,
+  "low_risk":11,
   "high_risk":1
  },
  {
   "county":"Lane",
-  "low_risk":2,
+  "low_risk":4,
   "high_risk":1
  },
  {
@@ -267,26 +392,36 @@
  {
   "county":"Lenawee",
   "low_risk":1,
-  "high_risk":1
- },
- {
-  "county":"Leon",
-  "low_risk":3,
   "high_risk":2
  },
  {
-  "county":"Los Angeles",
-  "low_risk":222,
-  "high_risk":17
+  "county":"Leon",
+  "low_risk":4,
+  "high_risk":2
  },
  {
-  "county":"Lubbock",
+  "county":"Linn",
   "low_risk":1,
   "high_risk":1
  },
  {
+  "county":"Lorain",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Los Angeles",
+  "low_risk":375,
+  "high_risk":38
+ },
+ {
+  "county":"Lubbock",
+  "low_risk":2,
+  "high_risk":1
+ },
+ {
   "county":"Lucas",
-  "low_risk":5,
+  "low_risk":7,
   "high_risk":1
  },
  {
@@ -296,98 +431,138 @@
  },
  {
   "county":"Maricopa",
-  "low_risk":48,
-  "high_risk":10
+  "low_risk":104,
+  "high_risk":21
  },
  {
   "county":"Marin",
   "low_risk":3,
-  "high_risk":1
+  "high_risk":2
  },
  {
   "county":"Marion",
-  "low_risk":14,
+  "low_risk":28,
+  "high_risk":2
+ },
+ {
+  "county":"McLennan",
+  "low_risk":3,
   "high_risk":1
  },
  {
   "county":"Mecklenburg",
-  "low_risk":12,
-  "high_risk":7
+  "low_risk":32,
+  "high_risk":8
  },
  {
   "county":"Miami-Dade",
-  "low_risk":15,
-  "high_risk":6
+  "low_risk":27,
+  "high_risk":7
  },
  {
   "county":"Middlesex",
-  "low_risk":6,
-  "high_risk":3
+  "low_risk":7,
+  "high_risk":4
  },
  {
   "county":"Milwaukee",
-  "low_risk":11,
+  "low_risk":20,
   "high_risk":2
  },
  {
   "county":"Mobile",
-  "low_risk":3,
-  "high_risk":1
- },
- {
-  "county":"Monterey",
-  "low_risk":1,
-  "high_risk":2
- },
- {
-  "county":"Multnomah",
-  "low_risk":690,
-  "high_risk":1
- },
- {
-  "county":"Nevada",
-  "low_risk":3,
-  "high_risk":2
- },
- {
-  "county":"New Haven",
-  "low_risk":1,
-  "high_risk":1
- },
- {
-  "county":"New York",
-  "low_risk":55,
-  "high_risk":14
- },
- {
-  "county":"Nueces",
   "low_risk":5,
   "high_risk":1
  },
  {
-  "county":"Onondaga",
+  "county":"Monongalia",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Monterey",
+  "low_risk":2,
+  "high_risk":2
+ },
+ {
+  "county":"Montgomery",
   "low_risk":3,
   "high_risk":2
  },
  {
-  "county":"Orange",
-  "low_risk":38,
-  "high_risk":12
+  "county":"Multnomah",
+  "low_risk":1289,
+  "high_risk":1
  },
  {
-  "county":"Orleans",
-  "low_risk":19,
+  "county":"Nevada",
+  "low_risk":4,
   "high_risk":2
  },
  {
+  "county":"New Castle",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"New Haven",
+  "low_risk":2,
+  "high_risk":1
+ },
+ {
+  "county":"New York",
+  "low_risk":77,
+  "high_risk":23
+ },
+ {
+  "county":"Norfolk",
+  "low_risk":13,
+  "high_risk":1
+ },
+ {
+  "county":"Nueces",
+  "low_risk":10,
+  "high_risk":1
+ },
+ {
+  "county":"Oklahoma",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Onondaga",
+  "low_risk":4,
+  "high_risk":2
+ },
+ {
+  "county":"Orange",
+  "low_risk":61,
+  "high_risk":18
+ },
+ {
+  "county":"Orleans",
+  "low_risk":25,
+  "high_risk":2
+ },
+ {
+  "county":"Osceola",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
   "county":"Palm Beach",
+  "low_risk":2,
+  "high_risk":1
+ },
+ {
+  "county":"Passaic",
   "low_risk":1,
   "high_risk":1
  },
  {
   "county":"Philadelphia",
-  "low_risk":25,
-  "high_risk":3
+  "low_risk":57,
+  "high_risk":9
  },
  {
   "county":"Pierce",
@@ -396,98 +571,148 @@
  },
  {
   "county":"Pima",
-  "low_risk":12,
-  "high_risk":3
+  "low_risk":18,
+  "high_risk":5
  },
  {
   "county":"Pinellas",
-  "low_risk":6,
-  "high_risk":3
+  "low_risk":8,
+  "high_risk":4
  },
  {
   "county":"Platte",
-  "low_risk":1,
+  "low_risk":5,
   "high_risk":1
  },
  {
   "county":"Polk",
+  "low_risk":5,
+  "high_risk":2
+ },
+ {
+  "county":"Prince George's",
   "low_risk":3,
-  "high_risk":1
- },
- {
-  "county":"Queens",
-  "low_risk":25,
-  "high_risk":5
- },
- {
-  "county":"Richmond",
-  "low_risk":7,
-  "high_risk":3
- },
- {
-  "county":"Sacramento",
-  "low_risk":21,
   "high_risk":2
  },
  {
-  "county":"Salt Lake",
-  "low_risk":8,
-  "high_risk":1
- },
- {
-  "county":"San Bernardino",
-  "low_risk":7,
-  "high_risk":1
- },
- {
-  "county":"San Diego",
-  "low_risk":48,
-  "high_risk":6
- },
- {
-  "county":"San Francisco",
-  "low_risk":59,
-  "high_risk":6
- },
- {
-  "county":"San Joaquin",
-  "low_risk":6,
-  "high_risk":2
- },
- {
-  "county":"Santa Barbara",
-  "low_risk":2,
-  "high_risk":1
- },
- {
-  "county":"Santa Clara",
+  "county":"Prince William",
   "low_risk":1,
   "high_risk":1
  },
  {
-  "county":"Shelby",
-  "low_risk":11,
-  "high_risk":4
+  "county":"Queens",
+  "low_risk":50,
+  "high_risk":10
  },
  {
-  "county":"Spokane",
+  "county":"Racine",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Richmond",
+  "low_risk":18,
+  "high_risk":5
+ },
+ {
+  "county":"Robertson",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Sacramento",
+  "low_risk":25,
+  "high_risk":2
+ },
+ {
+  "county":"Salt Lake",
+  "low_risk":16,
+  "high_risk":2
+ },
+ {
+  "county":"San Bernardino",
+  "low_risk":8,
+  "high_risk":1
+ },
+ {
+  "county":"San Diego",
+  "low_risk":69,
+  "high_risk":16
+ },
+ {
+  "county":"San Francisco",
+  "low_risk":87,
+  "high_risk":8
+ },
+ {
+  "county":"San Joaquin",
+  "low_risk":8,
+  "high_risk":3
+ },
+ {
+  "county":"Santa Barbara",
   "low_risk":3,
   "high_risk":1
  },
  {
+  "county":"Santa Clara",
+  "low_risk":20,
+  "high_risk":2
+ },
+ {
+  "county":"Santa Cruz",
+  "low_risk":6,
+  "high_risk":3
+ },
+ {
+  "county":"Sedgwick",
+  "low_risk":5,
+  "high_risk":1
+ },
+ {
+  "county":"Shasta",
+  "low_risk":2,
+  "high_risk":1
+ },
+ {
+  "county":"Shelby",
+  "low_risk":15,
+  "high_risk":5
+ },
+ {
+  "county":"Somerset",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Sonoma",
+  "low_risk":7,
+  "high_risk":1
+ },
+ {
+  "county":"Spokane",
+  "low_risk":5,
+  "high_risk":2
+ },
+ {
   "county":"Suffolk",
-  "low_risk":23,
+  "low_risk":28,
+  "high_risk":2
+ },
+ {
+  "county":"Tallapoosa",
+  "low_risk":1,
   "high_risk":1
  },
  {
   "county":"Tarrant",
-  "low_risk":13,
-  "high_risk":4
+  "low_risk":32,
+  "high_risk":11
  },
  {
   "county":"Travis",
-  "low_risk":25,
-  "high_risk":5
+  "low_risk":43,
+  "high_risk":6
  },
  {
   "county":"Trumbull",
@@ -496,32 +721,52 @@
  },
  {
   "county":"Tulsa",
-  "low_risk":5,
-  "high_risk":3
+  "low_risk":10,
+  "high_risk":4
  },
  {
-  "county":"Ventura",
-  "low_risk":4,
-  "high_risk":3
- },
- {
-  "county":"Wake",
-  "low_risk":9,
-  "high_risk":2
- },
- {
-  "county":"Washington",
+  "county":"Tuscaloosa",
   "low_risk":2,
   "high_risk":1
  },
  {
+  "county":"Ventura",
+  "low_risk":5,
+  "high_risk":3
+ },
+ {
+  "county":"Wake",
+  "low_risk":20,
+  "high_risk":4
+ },
+ {
+  "county":"Walker",
+  "low_risk":1,
+  "high_risk":1
+ },
+ {
+  "county":"Washington",
+  "low_risk":4,
+  "high_risk":1
+ },
+ {
   "county":"Washoe",
-  "low_risk":7,
+  "low_risk":8,
   "high_risk":4
  },
  {
   "county":"Wayne",
-  "low_risk":11,
+  "low_risk":23,
+  "high_risk":3
+ },
+ {
+  "county":"Westchester",
+  "low_risk":2,
+  "high_risk":1
+ },
+ {
+  "county":"Whatcom",
+  "low_risk":1,
   "high_risk":1
  },
  {
