@@ -18,8 +18,8 @@ while True:
 
         # Query built by the health team
 
-        cold_flu_query = 'cold OR flu OR cough OR (runny nose) OR (stuffy nose) OR (sore throat) OR (muscle aches) OR headaches OR (body aches) OR (itchy throat) -filter:retweets'
-        pneu_bronc_query = 'pneumonia OR bronchitis OR sweating OR chills OR (shortness of breath) OR (difficulty breathing) OR (out of breath) OR (coughing blood) -filter:retweets'
+        cold_flu_query = 'cold OR flu OR cough OR (runny nose) OR (stuffy nose) OR (sore throat) OR (muscle aches) OR headaches OR (body aches) OR (itchy throat) -police -POLICE -filter:retweets'
+        pneu_bronc_query = 'pneumonia OR bronchitis OR sweating OR chills OR (shortness of breath) OR (difficulty breathing) OR (out of breath) OR (coughing blood) -police -POLICE -filter:retweets'
         location = "39.8,-95.583068847656,2500km"  # Geographical center of the US with 2500km radius
         language = "en"
         result_type = "recent"
